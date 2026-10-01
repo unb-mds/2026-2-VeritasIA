@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:04:19Z",
+  "generated_at": "2026-10-01T03:05:50Z",
   "repository": "unb-mds/2026-2-VeritasIA",
   "issues_per_week": [
     {
@@ -462,12 +462,6 @@
       "name": "unknown",
       "commits": 10,
       "avatar_url": ""
-    },
-    {
-      "username": "christianrolim",
-      "name": "Christian Silva Rolim",
-      "commits": 0,
-      "avatar_url": "https://avatars.githubusercontent.com/u/206796132?v=4"
     }
   ],
   "top_pr_authors": [
@@ -506,12 +500,6 @@
       "name": "unknown",
       "prs_opened": 0,
       "avatar_url": ""
-    },
-    {
-      "username": "christianrolim",
-      "name": "Christian Silva Rolim",
-      "prs_opened": 0,
-      "avatar_url": "https://avatars.githubusercontent.com/u/206796132?v=4"
     }
   ],
   "top_issue_contributors": [
@@ -519,48 +507,40 @@
       "username": "SchneiderCode1",
       "name": "Henrique Schneider Fernandes da Rosa",
       "opened": 0,
-      "closed": 22,
-      "total": 22,
+      "closed": 11,
+      "total": 11,
       "avatar_url": "https://avatars.githubusercontent.com/u/165057013?v=4"
     },
     {
       "username": "TheBagomes",
       "name": "Vitor Barreto Gomes",
       "opened": 0,
-      "closed": 12,
-      "total": 12,
+      "closed": 4,
+      "total": 4,
       "avatar_url": "https://avatars.githubusercontent.com/u/154992563?v=4"
     },
     {
       "username": "jadsonRleandro",
       "name": "Jadson Ricardo",
       "opened": 0,
-      "closed": 11,
-      "total": 11,
+      "closed": 3,
+      "total": 3,
       "avatar_url": "https://avatars.githubusercontent.com/u/160337733?v=4"
     },
     {
       "username": "danilofns",
       "name": "Danilo Fernandes",
       "opened": 0,
-      "closed": 8,
-      "total": 8,
+      "closed": 1,
+      "total": 1,
       "avatar_url": "https://avatars.githubusercontent.com/u/190551570?v=4"
-    },
-    {
-      "username": "christianrolim",
-      "name": "Christian Silva Rolim",
-      "opened": 0,
-      "closed": 4,
-      "total": 4,
-      "avatar_url": "https://avatars.githubusercontent.com/u/206796132?v=4"
     },
     {
       "username": "Daniel241025",
       "name": "Daniel Rodrigues Freitas",
       "opened": 0,
-      "closed": 3,
-      "total": 3,
+      "closed": 0,
+      "total": 0,
       "avatar_url": "https://avatars.githubusercontent.com/u/215087737?v=4"
     },
     {
